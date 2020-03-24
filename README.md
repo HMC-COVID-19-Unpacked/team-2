@@ -1,5 +1,5 @@
 # Welcome!
-These are changing times - and I am glad everyone is on board. We are going to be doing two Kaggle tasks. I am planning on using **Python** and **R** - do not worry if you do not have familiarity with one or the other, they're super easy to pick up. 
+These are changing times - and I am glad everyone is on board. We are going to be doing two Kaggle tasks. I am planning on using **Python** and **Git** - do not worry if you do not have familiarity with one or the other, they're super easy to pick up. 
 Though we will end up submitting our code and images in a Python notebook, on Kaggle , development will be easiest on git. 
 
 ## TASKS ##
