@@ -24,6 +24,18 @@ Though we will end up submitting our code and images in a Python notebook, on Ka
 
 ## Work Flow ##
 Everything will be based on this git repo - including project managment. Please familarize yourself with how projects work in Git. 
+### Projects ### 
+ We have two projects - available in the [projects](https://github.com/abesap/covid19/projects) tab. They are 
+ - [Geographic Warmup](https://github.com/abesap/covid19/projects/1) 
+ - [Viral Orgins, Genetics, and Evoluition](https://github.com/abesap/covid19/projects/2)
+ 
+ Projects contain relevant issues - if you're looking for a place to start go over to there. 
+ ### Branches and Issues ###
+ Each project has its own branch - 
+ - [warmup](https://github.com/abesap/covid19/tree/warmup) for the Geographic Warmup
+ - [virus](https://github.com/abesap/covid19/tree/virus) for the Viral Origins project
+ 
+ Please work on each project on its respective branch and move issues to the done column by submitting a **pull request** on that branch into master. Refrence the issue in the commit. 
 
 ## Weekly/As Needed Meetings ## 
-  We will set up a weekly - or more frequently depending on how quickly we can get moving - meeting to touch base and see how far along we are. If you have not done so already, please fill out this [whenisgood](http://whenisgood.net/9hmkhqa)
+  Meetings will be scheduled for 1:00 pm PST on Fridays - should be a half hour. 
