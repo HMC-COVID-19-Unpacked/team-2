@@ -1,6 +1,22 @@
-# Welcome!
-These are changing times - and I am glad everyone is on board. We are going to be doing two Kaggle tasks. I am planning on using **Python** and **Git** - do not worry if you do not have familiarity with one or the other, they're super easy to pick up. 
-Though we will end up submitting our code and images in a Python notebook, on Kaggle , development will be easiest on git. 
+
+## HOW TO CLONE THIS REPO ##
+It should be pretty straight forwards - navigate to the directory that you want the repo in then run
+
+```git clone https://github.com/HMC-COVID-19-Unpacked/team-2.git```
+
+Now there are two additional branches that you should put into your local repo, get them by running
+
+``` git checkout --track origin/virus ```
+
+``` git checkout --track origin/warmup ```
+
+You can switch between branches by running 
+
+``` git checkout virus ```
+
+``` git checkout warmup ```
+
+``` git checkout master ```
 
 ## TASKS ##
 1. Warming up with [geographic variation in COVID-19 cases](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks?taskId=536) 
@@ -22,8 +38,20 @@ Though we will end up submitting our code and images in a Python notebook, on Ka
 ## Wiki ##
   More on this later
 
-## Work Flow ##
+## Work Flow ## 
 Everything will be based on this git repo - including project managment. Please familarize yourself with how projects work in Git. 
+### Projects ### 
+ We have two projects - available in the [projects](https://github.com/abesap/covid19/projects) tab. They are 
+ - [Geographic Warmup](https://github.com/abesap/covid19/projects/1) 
+ - [Viral Orgins, Genetics, and Evoluition](https://github.com/abesap/covid19/projects/2)
+ 
+ Projects contain relevant issues - if you're looking for a place to start go over to there. 
+ ### Branches and Issues ###
+ Each project has its own branch - 
+ - [warmup](https://github.com/abesap/covid19/tree/warmup) for the Geographic Warmup
+ - [virus](https://github.com/abesap/covid19/tree/virus) for the Viral Origins project
+ 
+ Please work on each project on its respective branch and move issues to the done column by submitting a **pull request** on that branch into master. Refrence the issue in the commit. 
 
 ## Weekly/As Needed Meetings ## 
-  We will set up a weekly - or more frequently depending on how quickly we can get moving - meeting to touch base and see how far along we are. If you have not done so already, please fill out this [whenisgood](http://whenisgood.net/9hmkhqa)
+  Meetings will be scheduled for 1:00 pm PST on Fridays - should be a half hour. 
