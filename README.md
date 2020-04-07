@@ -1,6 +1,22 @@
-# Welcome!
-These are changing times - and I am glad everyone is on board. We are going to be doing two Kaggle tasks. I am planning on using **Python** and **Git** - do not worry if you do not have familiarity with one or the other, they're super easy to pick up. 
-Though we will end up submitting our code and images in a Python notebook, on Kaggle , development will be easiest on git. 
+
+## HOW TO CLONE THIS REPO ##
+It should be pretty straight forwards - navigate to the directory that you want the repo in then run
+
+```git clone https://github.com/HMC-COVID-19-Unpacked/team-2.git```
+
+Now there are two additional branches that you should put into your local repo, get them by running
+
+``` git checkout --track origin/virus ```
+
+``` git checkout --track origin/warmup ```
+
+You can switch between branches by running 
+
+``` git checkout virus ```
+
+``` git checkout warmup ```
+
+``` git checkout master ```
 
 ## TASKS ##
 1. Warming up with [geographic variation in COVID-19 cases](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks?taskId=536) 
@@ -22,7 +38,7 @@ Though we will end up submitting our code and images in a Python notebook, on Ka
 ## Wiki ##
   More on this later
 
-## Work Flow ##
+## Work Flow ## 
 Everything will be based on this git repo - including project managment. Please familarize yourself with how projects work in Git. 
 ### Projects ### 
  We have two projects - available in the [projects](https://github.com/abesap/covid19/projects) tab. They are 
